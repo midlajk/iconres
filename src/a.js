@@ -24,6 +24,7 @@
 //       .then(response => response || fetch(event.request))
 //   );
 // });
+/* eslint-disable no-restricted-globals, no-undef */
 const CACHE_NAME = 'restaurant-app-v2';
 const ASSETS = [
   '/',
