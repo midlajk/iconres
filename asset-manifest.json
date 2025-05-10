@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/midlajk/iconres.git/static/css/main.e6c13ad2.css",
+    "main.js": "/midlajk/iconres.git/static/js/main.1fa4076d.js",
+    "static/js/239.f21f6aa3.chunk.js": "/midlajk/iconres.git/static/js/239.f21f6aa3.chunk.js",
+    "static/js/977.1bc440e8.chunk.js": "/midlajk/iconres.git/static/js/977.1bc440e8.chunk.js",
+    "static/js/732.3da35aef.chunk.js": "/midlajk/iconres.git/static/js/732.3da35aef.chunk.js",
+    "static/js/453.3257c68d.chunk.js": "/midlajk/iconres.git/static/js/453.3257c68d.chunk.js",
+    "index.html": "/midlajk/iconres.git/index.html",
+    "main.e6c13ad2.css.map": "/midlajk/iconres.git/static/css/main.e6c13ad2.css.map",
+    "main.1fa4076d.js.map": "/midlajk/iconres.git/static/js/main.1fa4076d.js.map",
+    "239.f21f6aa3.chunk.js.map": "/midlajk/iconres.git/static/js/239.f21f6aa3.chunk.js.map",
+    "977.1bc440e8.chunk.js.map": "/midlajk/iconres.git/static/js/977.1bc440e8.chunk.js.map",
+    "732.3da35aef.chunk.js.map": "/midlajk/iconres.git/static/js/732.3da35aef.chunk.js.map",
+    "453.3257c68d.chunk.js.map": "/midlajk/iconres.git/static/js/453.3257c68d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1fa4076d.js"
+  ]
+}
