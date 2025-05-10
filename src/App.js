@@ -7,7 +7,7 @@ import NewProducts from './components/NewProducts';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/iconres">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<NewOrder />} />
